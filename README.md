@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![card](https://github-readme-stats.vercel.app/api?username=PedroFonseca13&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 [![PedroFonseca13](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFonseca13&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
