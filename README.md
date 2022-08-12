@@ -1,6 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Pedro Fonseca">
 
-### Hi there 👋
+## 💚 Olá, meu nome é <strong>{Pedro Fonseca}!</strong>
+
+> Faça uma breve aprensentação sobre você e a sua área.
 
 <!--
 **PedroFonseca13/PedroFonseca13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
