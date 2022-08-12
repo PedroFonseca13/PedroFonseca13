@@ -2,7 +2,7 @@
 
 ## 💚 Olá, meu nome é <strong>{Pedro Fonseca}!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> Sou um desenvolvedor full stack jr. que sonha sempre em fazer o mundo um pouco melhor.
 
 <!--
 **PedroFonseca13/PedroFonseca13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
