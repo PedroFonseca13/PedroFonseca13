@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🛠  Technologies and tools
+
+<a name="learning-now"></a>
+
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+
 [![card](https://github-readme-stats.vercel.app/api?username=PedroFonseca13&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![PedroFonseca13](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFonseca13&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
