@@ -1,10 +1,12 @@
+![banner](https://github.com/PedroFonseca13/PedroFonseca13/blob/main/pedro%20fonseca.png)
+
 ## 💚 Hello, my name is <strong>{Pedro Fonseca}!</strong>
 
-[![Twitter Badge](https://img.shields.io/badge/-@rikee_fonseca-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rikee_fonseca)](https://twitter.com/rikee_fonseca) 
 [![Linkedin Badge](https://img.shields.io/badge/-pedrofonseca13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-fonseca13/)](https://www.linkedin.com/in/pedro-fonseca13/) 
 [![Gmail Badge](https://img.shields.io/badge/-pedro.fonseca1392@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.fonseca1392@gmail.com)](mailto:pedro.fonseca1392@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@rikee_fonseca-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rikee_fonseca)](https://twitter.com/rikee_fonseca) 
 
-<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611eb83b157ef85c18cb2cc694b2ac7ebfd31effff1&rid=giphy.gif&ct=g" width="290px" height="190px" align="right" alt="Computador Pedro Fonseca">
+
 
 > Don’t worry about a thing,
 > ‘Cause every little thing gonna be all right.
