@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Node, Express and MySQL.
 - 🔭 I’m currently working on creating webpages and learning how to work back end.
-- 😀 I like to grow plants, code, watch soccer, and spend time with my family.
+- 😀 I like to spend time with my family, code, watch soccer, and grow plants.
 - 💬 Ask me about my team soccer 🐓.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
