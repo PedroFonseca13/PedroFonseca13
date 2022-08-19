@@ -1,4 +1,4 @@
-![banner](https://github.com/PedroFonseca13/PedroFonseca13/blob/main/pedro%20fonseca.png)
+![banner](https://github.com/PedroFonseca13/PedroFonseca13/blob/main/pedro_fonseca.png)
 
 ## 💚 Hello, my name is <strong>{Pedro Fonseca}!</strong>
 
