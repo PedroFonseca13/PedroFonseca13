@@ -4,7 +4,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-pedrofonseca13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-fonseca13/)](https://www.linkedin.com/in/pedro-fonseca13/) 
 [![Gmail Badge](https://img.shields.io/badge/-pedro.fonseca1392@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.fonseca1392@gmail.com)](mailto:pedro.fonseca1392@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@rikee_fonseca-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rikee_fonseca)](https://twitter.com/rikee_fonseca) 
 
 
 
