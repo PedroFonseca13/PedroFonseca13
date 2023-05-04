@@ -3,8 +3,6 @@
 ## 💚 Hello, my name is <strong>{Pedro Fonseca}!</strong>
 
 [![Linkedin Badge](https://img.shields.io/badge/-pedrofonseca13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-fonseca13/)](https://www.linkedin.com/in/pedro-fonseca13/) 
-[![Gmail Badge](https://img.shields.io/badge/-pedro.fonseca1392@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.fonseca1392@gmail.com)](mailto:pedro.fonseca1392@gmail.com)
-
 
 
 > Don’t worry about a thing,
@@ -66,3 +64,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 &nbsp;
 
 [![PedroFonseca13](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFonseca13&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
